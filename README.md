@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @s287470
+- 👋 Hi, I’m @GioGio
 - 👀 I’m interested in coding and climbing
 - 🌱 I’m currently learning script.py
 - 💞️ I’m looking to collaborate on ...
